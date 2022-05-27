@@ -1,0 +1,62 @@
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\BAL\bin\Debug\netcoreapp3.1\BAL.deps.json
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\BAL\bin\Debug\netcoreapp3.1\BAL.runtimeconfig.json
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\BAL\bin\Debug\netcoreapp3.1\BAL.runtimeconfig.dev.json
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\BAL\bin\Debug\netcoreapp3.1\BAL.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\BAL\bin\Debug\netcoreapp3.1\BAL.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\BAL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\BAL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\BAL\obj\Debug\netcoreapp3.1\BAL.csprojAssemblyReference.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfoInputs.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfo.cs
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CoreCompileInputs.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CopyComplete
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\BAL\obj\Debug\netcoreapp3.1\BAL.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\BAL\obj\Debug\netcoreapp3.1\BAL.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\BAL\obj\Debug\netcoreapp3.1\BAL.genruntimeconfig.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\BAL\bin\Debug\netcoreapp3.1\BAL.deps.json
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\BAL\bin\Debug\netcoreapp3.1\BAL.runtimeconfig.json
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\BAL\bin\Debug\netcoreapp3.1\BAL.runtimeconfig.dev.json
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\BAL\bin\Debug\netcoreapp3.1\BAL.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\BAL\bin\Debug\netcoreapp3.1\BAL.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\BAL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\BAL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\BAL\obj\Debug\netcoreapp3.1\BAL.csprojAssemblyReference.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfoInputs.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfo.cs
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CoreCompileInputs.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CopyComplete
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\BAL\obj\Debug\netcoreapp3.1\BAL.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\BAL\obj\Debug\netcoreapp3.1\BAL.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\BAL\obj\Debug\netcoreapp3.1\BAL.genruntimeconfig.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\BAL\bin\Debug\netcoreapp3.1\BAL.deps.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\BAL\bin\Debug\netcoreapp3.1\BAL.runtimeconfig.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\BAL\bin\Debug\netcoreapp3.1\BAL.runtimeconfig.dev.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\BAL\bin\Debug\netcoreapp3.1\BAL.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\BAL\bin\Debug\netcoreapp3.1\BAL.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\BAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\BAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.AssemblyReference.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\BAL\obj\Debug\netcoreapp3.1\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfoInputs.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfo.cs
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CoreCompileInputs.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CopyComplete
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\BAL\obj\Debug\netcoreapp3.1\BAL.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\BAL\obj\Debug\netcoreapp3.1\BAL.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\BAL\obj\Debug\netcoreapp3.1\BAL.genruntimeconfig.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\BAL\bin\Debug\netcoreapp3.1\BAL.deps.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\BAL\bin\Debug\netcoreapp3.1\BAL.runtimeconfig.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\BAL\bin\Debug\netcoreapp3.1\BAL.runtimeconfig.dev.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\BAL\bin\Debug\netcoreapp3.1\BAL.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\BAL\bin\Debug\netcoreapp3.1\BAL.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\BAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\BAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.AssemblyReference.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\BAL\obj\Debug\netcoreapp3.1\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfoInputs.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfo.cs
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CoreCompileInputs.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CopyComplete
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\BAL\obj\Debug\netcoreapp3.1\BAL.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\BAL\obj\Debug\netcoreapp3.1\BAL.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\BAL\obj\Debug\netcoreapp3.1\BAL.genruntimeconfig.cache

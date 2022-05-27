@@ -1,0 +1,2 @@
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache

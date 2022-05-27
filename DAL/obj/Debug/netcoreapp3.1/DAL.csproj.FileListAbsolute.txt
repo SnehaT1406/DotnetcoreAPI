@@ -1,0 +1,50 @@
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCORE5WebAPICrud\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache

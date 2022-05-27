@@ -1,0 +1,199 @@
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.csprojAssemblyReference.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.GeneratedMSBuildEditorConfig.editorconfig
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.AssemblyInfoInputs.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.AssemblyInfo.cs
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.csproj.CoreCompileInputs.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.MvcApplicationPartsAssemblyInfo.cs
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.MvcApplicationPartsAssemblyInfo.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\appsettings.Development.json
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\appsettings.json
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.exe
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.deps.json
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.runtimeconfig.json
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.runtimeconfig.dev.json
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\ref\AspNetCore5WebApiService2021.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\BAL.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\DAL.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\BAL.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\DAL.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\staticwebassets\AspNetCore5WebApiService2021.StaticWebAssets.Manifest.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\staticwebassets\AspNetCore5WebApiService2021.StaticWebAssets.xml
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\scopedcss\bundle\AspNetCore5WebApiService2021.styles.css
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.RazorTargetAssemblyInfo.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.csproj.CopyComplete
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\ref\AspNetCore5WebApiService2021.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.pdb
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.genruntimeconfig.cache
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Humanizer.dll
+F:\111-PakSoftValley Technologies\114-Website Development\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\appsettings.Development.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\appsettings.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.StaticWebAssets.xml
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.exe
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.deps.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.runtimeconfig.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.runtimeconfig.dev.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\ref\AspNetCore5WebApiService2021.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Humanizer.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\BAL.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\DAL.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\BAL.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\bin\Debug\net5.0\DAL.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.csproj.AssemblyReference.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.AssemblyInfoInputs.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.AssemblyInfo.cs
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.csproj.CoreCompileInputs.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\scopedcss\bundle\AspNetCore5WebApiService2021.styles.css
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\staticwebassets\AspNetCore5WebApiService2021.StaticWebAssets.Manifest.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.RazorTargetAssemblyInfo.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.csproj.CopyComplete
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\ref\AspNetCore5WebApiService2021.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPIService\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.genruntimeconfig.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\appsettings.Development.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\appsettings.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.StaticWebAssets.xml
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.exe
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.deps.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.runtimeconfig.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.runtimeconfig.dev.json
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\ref\AspNetCore5WebApiService2021.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\AspNetCore5WebApiService2021.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Castle.Core.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Humanizer.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Moq.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\BAL.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\DAL.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\BAL.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\bin\Debug\net5.0\DAL.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.csproj.AssemblyReference.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.AssemblyInfoInputs.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.AssemblyInfo.cs
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.csproj.CoreCompileInputs.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\obj\Debug\net5.0\scopedcss\bundle\AspNetCore5WebApiService2021.styles.css
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\obj\Debug\net5.0\staticwebassets\AspNetCore5WebApiService2021.StaticWebAssets.Manifest.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.RazorTargetAssemblyInfo.cache
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.csproj.CopyComplete
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\obj\Debug\net5.0\ref\AspNetCore5WebApiService2021.dll
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.pdb
+D:\Users\stambade\Downloads\AspNetCore5WebAPI\AspNetCore5WebApiService2021\obj\Debug\net5.0\AspNetCore5WebApiService2021.genruntimeconfig.cache

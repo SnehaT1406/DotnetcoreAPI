@@ -1,0 +1,12 @@
+{
+  "EmployeeSet": [
+    {
+      "ID": 1,
+      "UserName": "Jack",
+      "UserPassword": "Jack123",
+      "UserEmail": "Jack123",
+      "CreatedOn": "27/05/2022",
+      "IsDeleted": "false"
+    }
+  ]
+}
